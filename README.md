@@ -7,4 +7,4 @@
 5. Click on `File`, `Import notebook` and drag and drop the downloaded notebook `introduction_to_ner_full.ipynb`
 6. Activate the GPU resource (You have to validate a telephone number in your account)
 
-Now you can run the cells.
+Now you can run the cells !
